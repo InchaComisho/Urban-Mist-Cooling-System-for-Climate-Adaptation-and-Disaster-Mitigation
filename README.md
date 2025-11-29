@@ -165,3 +165,6 @@ Combined with renewable energy, green infrastructure, and deep-sea oxygenation p
 
 
 #UrbanCooling #ClimateAdaptation #MistCooling #NanoMist #SustainableCities #AIClimateControl #HeatIslandMitigation #EnvironmentalEngineering #DisasterMitigation #MasterModel
+
+https://note.com/inchacomusho/n/nfa1a924992b6
+https://note.com/inchacomusho/n/n250048dec3c7
