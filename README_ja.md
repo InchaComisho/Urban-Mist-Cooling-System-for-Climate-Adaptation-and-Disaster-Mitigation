@@ -172,6 +172,10 @@ Urban Mist-Cooling System は、急速に温暖化する都市に対する、即
 - [Artificial Wisdom and Wa-Node – Repository Index](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index)
 - [Technical Specification: Ocean Tuning Unit (OTU)](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-)
 - [Physical Model of Ocean Tuning Unit (OTU)](https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-)
+- [Center-Mist-Ultrasonic-Cooling-Fan-Concept](https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept) — 中央ミスト注入とスパイラル返水構造を用いる装置レベルのUMC構想。
+- [Urban-Water-Circulation-System-UEPWI](https://github.com/InchaComisho/Urban-Water-Circulation-System-UEPWI) — 熱・粉塵・花粉・雨水を扱う都市水循環フレームワーク。
+- [Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding](https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding) — OBS×UMCによる海洋温度低減フレームワーク。
+- [Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding) — OBSとUMCを組み合わせたモジュール型DPC構想。
 
 ## 著者
 

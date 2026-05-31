@@ -164,6 +164,18 @@ Combined with renewable energy, green infrastructure, and deep-sea oxygenation p
 
 #UrbanCooling #ClimateAdaptation #MistCooling #NanoMist #SustainableCities #AIClimateControl #HeatIslandMitigation #EnvironmentalEngineering #DisasterMitigation #MasterModel
 
+---
+
+## Related Repositories
+
+- [Center-Mist-Ultrasonic-Cooling-Fan-Concept](https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept) — Device-level UMC concept using center mist injection and spiral return structure.
+- [Urban-Water-Circulation-System-UEPWI](https://github.com/InchaComisho/Urban-Water-Circulation-System-UEPWI) — Urban water circulation framework for heat, dust, pollen, and stormwater adaptation.
+- [Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding](https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding) — OBS × UMC ocean temperature reduction framework.
+- [Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding) — Modular DPC architecture combining OBS and UMC.
+- [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Integrated index for the Direct Planetary Cooling framework.
+
+---
+
 ■関連リンク
 
 ■唯一の温暖化対策
