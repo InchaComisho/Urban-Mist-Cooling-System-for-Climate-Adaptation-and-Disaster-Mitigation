@@ -180,6 +180,15 @@ Urban Mist-Cooling System は、急速に温暖化する都市に対する、即
 - [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — 共生科学とバイオシンセシスを自然循環回復として整理する関連フレームワーク。
 - [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — 自然法則・調和・循環・構造・秩序・和による文明OS。
 
+### 地球温暖化の因果構造とクーリングクレジット
+
+- [NOTE記事：温暖化の原因と因果関係](https://note.com/inchacomusho/n/n5b2102ffc1c2)
+- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
+- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+
+
 ## 著者
 
 **InchaComisho / inchacomusho**  
