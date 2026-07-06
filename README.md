@@ -2,6 +2,8 @@
 
 Master Edition — Technical White Paper (GitHub Version)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 Abstract
 
 This document outlines a scalable, AI-controlled Urban Mist-Cooling System (UMCS) designed to reduce heat-related disasters, mitigate urban-induced extreme weather, and enhance resilience in densely populated environments.
